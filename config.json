@@ -1,0 +1,10 @@
+{
+    "TicketChan" : "",
+    "clientId": "",
+
+    "Ticket": {
+        "Category": "",
+        "Closed": "",
+        "SupportId": ""
+    }
+}
